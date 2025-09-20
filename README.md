@@ -27,14 +27,34 @@ Top-performing products and categories
 Year-over-Year (YoY) growth patterns
 Customer segmentation insights
 
-🚀 How to Use
-Download the Excel files.
-Open Dashboard.xlsx.
-Use slicers and filters to explore the data interactively.
+# Process
+1️⃣ Data Collection
+Gather data from sources like CSV files, online datasets, or manually created tables.
+Ensure data is complete and relevant to the analysis goals.
 
-🌟 Future Improvements
-Automate data refresh with Power Query
+2️⃣ Data Cleaning & Preparation
+Remove duplicates and errors.
+Handle missing values.
+Format data consistently (dates, numbers, text).
+Create calculated columns if needed (e.g., total sales, profit).
 
-Connect to external data sources (CSV, SQL)
+3️⃣ Data Analysis with Pivot Tables
+Insert Pivot Tables to summarize data by categories, regions, or time periods.
+Use Pivot Charts to visualize key metrics.
+Apply filters and slicers for interactive exploration.
 
-Build advanced reports using Power BI
+4️⃣ Dashboard Creation
+Combine charts, tables, and KPIs in one sheet.
+Use conditional formatting to highlight trends or outliers.
+Add interactive elements like slicers and drop-downs for user control.
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-20 184459" src="https://github.com/user-attachments/assets/0898ec5b-2515-478f-984c-e633e92a561c" />
+
+
+5️⃣ Insights & Interpretation
+Identify trends, top-performing products, or regional patterns.
+Draw conclusions and business insights based on the visualizations.
+
+6️⃣ Documentation & Presentation
+Add notes or a brief report explaining the analysis.
+Include instructions for using the dashboard or interacting with the Pivot Tables.
