@@ -43,12 +43,17 @@ Insert Pivot Tables to summarize data by categories, regions, or time periods.
 Use Pivot Charts to visualize key metrics.
 Apply filters and slicers for interactive exploration.
 
+<img width="1920" height="1020" alt="pivot table" src="https://github.com/user-attachments/assets/5dc70390-4a84-4f7a-8326-753d6050577f" />
+
+
 4️⃣ Dashboard Creation
 Combine charts, tables, and KPIs in one sheet.
 Use conditional formatting to highlight trends or outliers.
 Add interactive elements like slicers and drop-downs for user control.
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-20 184459" src="https://github.com/user-attachments/assets/0898ec5b-2515-478f-984c-e633e92a561c" />
+<img width="1920" height="970" alt="Dashboard " src="https://github.com/user-attachments/assets/941817c0-d0ed-4cea-ac17-e0ffa4c3695e" />
+
+
 
 
 5️⃣ Insights & Interpretation
